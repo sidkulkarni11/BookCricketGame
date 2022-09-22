@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BookCricketGame</string>
+    <string name="player1">Player1</string>
+    <string name="player2">Player2</string>
+    <string name="five_overs">5 Overs</string>
+    <string name="two_overs">2 overs</string>
+    <string name="ten_overs">10 overs</string>
 </resources>
