@@ -3,6 +3,15 @@
     <string name="player1">Player1</string>
     <string name="player2">Player2</string>
     <string name="five_overs">5 Overs</string>
-    <string name="two_overs">2 overs</string>
+    <string name="two_overs">2 Overs</string>
     <string name="ten_overs">10 overs</string>
+    <string name="title_activity_game">GameActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>

@@ -3,6 +3,6 @@ package com.sid.bookcricketgame.Models
 import java.io.Serializable
 
 data class MenuOptions(
-    var playerType: PlayerType?,
-    var overType: OverType?
+    var playerType: Int,
+    var overs:Int
 ):Serializable
